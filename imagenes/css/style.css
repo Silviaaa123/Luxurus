@@ -1,0 +1,15 @@
+.titulo{
+background-image: url("https://okdiario.com/img/2017/07/20/tela-roja.jpg");
+height: 100px;
+background-size: cover;
+}
+header h1{
+  font-size: 100px;
+  text-align: center;
+  color: white;
+  font-family: "Bernard MT Condensed";
+}
+.footer{
+  background-color: black;
+  height: 50px;
+}
